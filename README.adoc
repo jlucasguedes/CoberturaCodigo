@@ -50,3 +50,8 @@ você deverá renomear as pastas para algo como (preferencialmente evitando acen
 
 `/home/usuario/meus-projetos/projeto-incrivel`.
 ====
+
+
+== Relatório Cobertura de código - João Lucas Guedes de Oliveira
+
+ image::relatorio.png[]
