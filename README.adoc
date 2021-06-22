@@ -54,4 +54,4 @@ você deverá renomear as pastas para algo como (preferencialmente evitando acen
 
 == Relatório Cobertura de código - João Lucas Guedes de Oliveira
 
- image::relatorio.png[]
+image::relatorio.png[]
